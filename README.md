@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi Folks, Zaqi's here 👋
 
-<!--
-**zaqiakbaar/zaqiakbaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaqiakbaar" alt="zaqiakbaar" /></p>
+<a href="https://linkedin.com/in/zaqi-akbar">
+  <img align="left" alt="Andrii's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/zaqiakbaar">
+  <img align="left" alt="Andrii's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Software Engineer, Ex-<b>NOBI</b>, Ex-<b>Pintarnya</b>
+- 🔭 I’m currently working on <b>[Flymore](https://flymore.id)</b> in Mobile Native Development Approach and building <b>Kemendikbud SuperApps</b>
+- 💬 Ask me about <b>Mobile Development at Scale</b>
+- 📫 How to reach me: zaqiakbaar@gmail.com
+
+![Zaqi's github stats](https://github-readme-stats.vercel.app/api?username=zaqiakbaar&show_icons=true&hide=["prs","issues","contribs"])
