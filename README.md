@@ -13,7 +13,7 @@
 
 
 - Software Engineer, Ex-<b>NOBI</b>, Ex-<b>Pintarnya</b>
-- 🔭 I’m currently working on <b>[Flymore](https://flymore.id)</b> in Mobile Native Development Approach and building <b>Kemendikbud SuperApps</b>
+- 🔭 I’m currently working on <b>[Flymore](https://flymore.id)</b> in Mobile iOS Native Development Approach and React Native for M-Web and building <b>Kemendikbud SuperApps</b>
 - 💬 Ask me about <b>Mobile Development at Scale</b>
 - 📫 How to reach me: zaqiakbaar@gmail.com
 
