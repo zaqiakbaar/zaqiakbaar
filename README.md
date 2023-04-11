@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaqiakbaar" alt="zaqiakbaar" /></p>
 <a href="https://linkedin.com/in/zaqi-akbar">
-  <img align="left" alt="Andrii's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="zaqi_linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://instagram.com/zaqiakbaar">
-  <img align="left" alt="zaqi_insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="zaqi_insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(20%) sepia(100%) saturate(7479%) hue-rotate(308deg) brightness(109%) contrast(106%); color: #e1306c"/>
 </a>
 
 <br/>
