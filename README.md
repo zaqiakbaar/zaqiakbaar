@@ -1,4 +1,4 @@
-## Hi Fellas, Zaqi here 👋
+## Hi ! Zaqi here 👋🏼
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaqiakbaar" alt="zaqiakbaar" /></p>
 <a href="https://linkedin.com/in/zaqi-akbar">
